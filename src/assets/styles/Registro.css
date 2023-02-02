@@ -1,0 +1,30 @@
+form{
+    width: 40%;
+    border: 5px solid;
+    margin: auto;
+    border-radius: 20px;
+    background-color: rgba(255, 200, 132, 0.762);
+}
+
+.div-formularios{
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.input-dobles{
+    width: 200px;
+}
+
+.input{
+    width: 500px;
+}
+
+.div-formularios-botons{
+    display: block;
+    text-align: center;
+}
+button{
+    margin-left: 10px;
+}
